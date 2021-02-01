@@ -1,0 +1,47 @@
+[
+	{
+		"id_product": 123,
+		"product_name": "Ноутбук",
+		"price": 45600
+	},
+	{
+		"id_product": 456,
+		"product_name": "Мышка",
+		"price": 1000
+	},
+	{
+		"id_product": 789,
+		"product_name": "крыска",
+		"price": 1000000
+	},
+	{
+		"id_product": 987,
+		"product_name": "крыска",
+		"price": 1000000
+	},
+	{
+		"id_product": 875,
+		"product_name": "кошка",
+		"price": 1000000
+	},
+	{
+		"id_product": 85,
+		"product_name": "крошка",
+		"price": 1000000
+	},
+	{
+		"id_product": 88,
+		"product_name": "крошка",
+		"price": 1000000
+	},
+	{
+		"id_product": 89,
+		"product_name": "крышка",
+		"price": 10000
+	},
+	{
+		"id_product": 8449,
+		"product_name": "крышка",
+		"price": 10000
+	}
+]
