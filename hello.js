@@ -50,12 +50,12 @@ function runMoment () {
 function runLodash () {
   const array = [4, 2, 8, 6, 10, 3, 45, 72];
   let mean = _.mean(array);
-  console.log(mean); 
+  console.log(mean);
 }
 
 // функция из урока
 //runAnsi ();
 
 //запускаю свои функции
-runMoment ();
-runLodash ()
+// runMoment ();
+// runLodash ()
