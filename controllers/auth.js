@@ -52,7 +52,7 @@ const signup = async (req, res, next) => {
   let result = await user.save();
 
   if (result) {
-    await login(req, res, next);
+    await signin(req, res, next);
   } else {
     let params = { message: "Ошибка при создании пользователя" };
     res.render("signup", params);
