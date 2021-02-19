@@ -29,10 +29,7 @@ class User {
       }
     } else {
       try {
-        let [
-          result,
-          fields,
-        ] = await poolConnection.execute(
+        let [result, fields] = await poolConnection.execute(
           "INSERT INTO users (login, password, email) VALUES (?, ?, ?)",
           [this.login, this.password, this.email]
         );

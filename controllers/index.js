@@ -1,4 +1,4 @@
 const auth = require("./auth");
-const tasks = require("./tasks");
+const task = require("./task");
 
-module.exports = { auth, tasks };
+module.exports = { auth, task };
